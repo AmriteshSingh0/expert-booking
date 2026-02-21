@@ -6,6 +6,8 @@ No waiting rooms. No middlemen. Just pick an expert, choose a slot, and book ins
 
 ---
 
+## 🚀 Live Demo :https://expert-booking-frontend.onrender.com
+
 ## What This App Does
 
 ExpertBook lets users browse a curated list of experts, view their available time slots in real time, and book a session in under a minute. If someone else books a slot while you're looking at it, it disappears instantly — no refreshing needed. Every booking is tied to your account and you can cancel anytime before it's confirmed.
